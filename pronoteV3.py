@@ -13,8 +13,7 @@ import uuid
 import re
 
 # Add your Pronote credentials here
-USERNAME = 'BENNANI MEZIANE3'
-PASSWORD = 'basf0101*'
+
 URL = 'https://3500044w.index-education.net/pronote/eleve.html'
 
 def human_typing(element, text):
